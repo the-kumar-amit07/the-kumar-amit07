@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] 👨‍💻
+# Hi there! 👋 I'm Amit Kumar Marndi 👨‍💻
 
 # 💫 About Me:
 Welcome to my GitHub profile! I'm a Frontend Developer passionate about creating sleek, functional, and responsive designs. Currently, I’m working on a project called Vizzle, and I’m on a journey to master the MERN stack!<br>🔥 Currently learning the MERN Stack (MongoDB, Express, React, Node.js)<br>🌱 Constantly exploring new tools and technologies in web development<br>🚀 Frontend Developer passionate about translating designs into user-friendly applications
