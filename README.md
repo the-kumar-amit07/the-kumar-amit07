@@ -8,9 +8,9 @@
 Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about creating sleek, functional, and responsive designs.  
 Currently, I’m working on a project called **Vizzle** and on a journey to master the **MERN stack**!  
 
-- 🔥 **Currently learning**: MERN Stack (MongoDB, Express, React, Node.js)  
-- 🌱 **Constantly exploring**: New tools and technologies in web development  
-- 🚀 **Passionate about**: Translating designs into user-friendly applications  
+ 🔥 **Currently learning**: MERN Stack (MongoDB, Express, React, Node.js)  
+ 🌱 **Constantly exploring**: New tools and technologies in web development  
+ 🚀 **Passionate about**: Translating designs into user-friendly applications  
 
 ---
 
