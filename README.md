@@ -39,7 +39,6 @@ Currently, I’m working on a project called **Vizzle** and on a journey to mast
 
 ---
 
-### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
