@@ -1,53 +1,63 @@
 <div align="center">
-  
-# Hi there! 👋 I'm Amit Kumar Marndi 👨‍💻
+
+# 👋 Hi, I'm Amit Kumar Marndi
+
+### 🚀 Frontend Developer | MERN Stack Enthusiast
 
 ---
 
-### 💫 About Me:
-Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about creating sleek, functional, and responsive designs.  
-Currently, I’m working on a project called **Vizzle** and on a journey to master the **MERN stack**!  
-
- 🔥 **Currently learning**: MERN Stack (MongoDB, Express, React, Node.js)  
- 🌱 **Constantly exploring**: New tools and technologies in web development  
- 🚀 **Passionate about**: Translating designs into user-friendly applications  
+Welcome to my GitHub! I’m passionate about crafting **sleek**, **functional**, and **responsive designs**.  
+Currently working on **Vizzle** and honing my skills in the **MERN stack**.
 
 ---
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kumar_amit.07)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amit-Kumar-Marndi)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thekumaramit_07)  
+### 🌟 A Little About Me:
+- 🔥 **Currently learning**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- 🌱 **Exploring**: Modern web development tools and technologies  
+- 💡 **Driven by**: Translating creative ideas into user-friendly applications
 
 ---
 
-### 💻 Tech Stack:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+### 🌐 Connect With Me:
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_kumar_amit.07)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amit-Kumar-Marndi)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thekumaramit_07)
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=the-kumar-amit07&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=the-kumar-amit07&theme=transparent&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-kumar-amit07&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Tech Stack:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
+### 📊 GitHub Highlights:
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=the-kumar-amit07&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=the-kumar-amit07&theme=tokyonight&hide_border=false" alt="GitHub Streak"></td>
+  </tr>
+</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-kumar-amit07&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages">
+
+---
+
+### 💬 Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=the-kumar-amit07&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+### 🔝 Top Contributions:
+<img src="https://github-contributor-stats.vercel.app/api?username=the-kumar-amit07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions">
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=the-kumar-amit07&icon=0&color=1)](https://visitcount.itsvg.in)
+### 👀 Profile Visits:
+[![](https://visitcount.itsvg.in/api?id=the-kumar-amit07&icon=2&color=6)](https://visitcount.itsvg.in)
 
 </div>
